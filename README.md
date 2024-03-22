@@ -3,20 +3,6 @@
 ## Description
 The Online Shopping System is a Python-based application that simulates an online shopping platform. Users can browse through various product categories, add products to their cart, and proceed to checkout. The system supports multiple payment methods and maintains a record of purchase history.
 
-## File Structure
-```
-Online-Shopping-System/
-│
-├── python_code/
-│   ├── online_shopping.py
-│   └── README.md
-│
-├── sql_code/
-│   ├── shopping_database.sql
-│   └── README.md
-│
-└── README.md
-```
 
 ## Getting Started
 ### Prerequisites
